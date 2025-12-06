@@ -1,0 +1,19 @@
+[project]
+name = "persona-probability-experiment"
+version = "0.1.0"
+description = "Experiment to analyze token probability distributions with and without personas"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.0.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+transformers = [
+    "transformers>=4.30.0",
+    "torch>=2.0.0",
+]

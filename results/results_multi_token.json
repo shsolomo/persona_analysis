@@ -1,0 +1,64 @@
+{
+  "without_persona": {
+    "tokens": [
+      "Design",
+      "ing",
+      " a",
+      " system",
+      " can"
+    ],
+    "probabilities": [
+      0.9030253079736387,
+      1.0,
+      0.9999731051281417,
+      0.9999321010096892,
+      0.05813511056035641
+    ],
+    "second_choice_tokens": [
+      "To",
+      " a",
+      " any",
+      " complex",
+      " requires"
+    ],
+    "second_choice_probs": [
+      0.095178160837967,
+      1.522997974471263e-08,
+      1.5206665554987636e-05,
+      4.0062584628391634e-05,
+      0.09584859335536326
+    ],
+    "full_text": "Designing a system can"
+  },
+  "with_persona": {
+    "tokens": [
+      "To",
+      " effectively",
+      " design",
+      " your",
+      " system"
+    ],
+    "probabilities": [
+      0.9760465404425642,
+      0.09874456393495692,
+      0.8009242772158176,
+      0.2956354510103066,
+      0.9418540229789921
+    ],
+    "second_choice_tokens": [
+      "In",
+      " provide",
+      " assist",
+      " your",
+      " Azure"
+    ],
+    "second_choice_probs": [
+      0.006576551328116335,
+      0.2368758948371227,
+      0.09565675950857161,
+      0.2956354510103066,
+      0.053135764191599814
+    ],
+    "full_text": "To effectively design your system"
+  }
+}

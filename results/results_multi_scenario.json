@@ -1,0 +1,632 @@
+[
+  {
+    "scenario": {
+      "name": "System Design Question",
+      "prompt": "How should I design the system?",
+      "category": "architecture"
+    },
+    "first_token": {
+      "without": {
+        "selected": "Design",
+        "probability": 0.8788417467537859,
+        "top_5_tokens": [
+          "Design",
+          "To",
+          "When",
+          "The",
+          "In"
+        ],
+        "top_5_probs": [
+          0.8788417467537859,
+          0.11893830203403936,
+          0.0016965637609527393,
+          0.0002948185750558758,
+          9.57135778149629e-05
+        ]
+      },
+      "with": {
+        "selected": "To",
+        "probability": 0.9813639959401886,
+        "top_5_tokens": [
+          "To",
+          "In",
+          "Design",
+          "Certainly",
+          "Let's"
+        ],
+        "top_5_probs": [
+          0.9813639959401886,
+          0.006612379515194399,
+          0.004010610909621163,
+          0.004010610909621163,
+          0.0014754213001875233
+        ]
+      },
+      "first_token_confidence_change": 11.66560982851502
+    },
+    "sequence": {
+      "without": {
+        "text": "Designing a system involves several steps, and the",
+        "tokens": [
+          "Design",
+          "ing",
+          " a",
+          " system",
+          " involves",
+          " several",
+          " steps",
+          ",",
+          " and",
+          " the"
+        ],
+        "probabilities": [
+          0.9030253079736387,
+          1.0,
+          0.9999737011314523,
+          0.9999306706691226,
+          0.7017653876005232,
+          0.7543497537121615,
+          0.30554623695511485,
+          0.2985929650271701,
+          0.6841849096297741,
+          0.800429378751028
+        ],
+        "avg_confidence": 0.7447798311449986
+      },
+      "with": {
+        "text": "To provide a tailored recommendation, I first need specific",
+        "tokens": [
+          "To",
+          " provide",
+          " a",
+          " tailored",
+          " recommendation",
+          ",",
+          " I",
+          " first",
+          " need",
+          " specific"
+        ],
+        "probabilities": [
+          0.9737373732867612,
+          0.19889887224012798,
+          0.6070715002996043,
+          0.12332934031949346,
+          0.23646632108938756,
+          0.29363679881902843,
+          0.2955875955797324,
+          0.007664275415227582,
+          0.9993563962459971,
+          0.0016209974463204573
+        ],
+        "avg_confidence": 0.37373694707416805
+      },
+      "avg_confidence_change": -49.81913695224562
+    }
+  },
+  {
+    "scenario": {
+      "name": "Problem Solving",
+      "prompt": "My application is slow. What should I do?",
+      "category": "troubleshooting"
+    },
+    "first_token": {
+      "without": {
+        "selected": "If",
+        "probability": 0.4565414984447087,
+        "top_5_tokens": [
+          "If",
+          "When",
+          "Impro",
+          "There",
+          "A"
+        ],
+        "top_5_probs": [
+          0.4565414984447087,
+          0.3555548553006102,
+          0.07933501180477695,
+          0.06178616931853944,
+          0.017702033889377453
+        ]
+      },
+      "with": {
+        "selected": "To",
+        "probability": 0.9931577787590709,
+        "top_5_tokens": [
+          "To",
+          "Let's",
+          "When",
+          "Phase",
+          "Impro"
+        ],
+        "top_5_probs": [
+          0.9931577787590709,
+          0.0014931526805251113,
+          0.001162868476838124,
+          0.0009056428803705827,
+          0.0007053153844156524
+        ]
+      },
+      "first_token_confidence_change": 117.53943116725263
+    },
+    "sequence": {
+      "without": {
+        "text": "When your application is running slowly, there are several",
+        "tokens": [
+          "When",
+          " your",
+          " application",
+          " is",
+          " running",
+          " slowly",
+          ",",
+          " there",
+          " are",
+          " several"
+        ],
+        "probabilities": [
+          0.2568825395792393,
+          0.31039807198771646,
+          0.9999510532881116,
+          0.995802103523091,
+          0.8289083591942986,
+          0.6777033282692382,
+          0.9999980183344259,
+          0.44236995715883004,
+          0.9255271235179048,
+          0.9750637985139591
+        ],
+        "avg_confidence": 0.7412604353366816
+      },
+      "with": {
+        "text": "To improve the performance of your application, we\u2019ll",
+        "tokens": [
+          "To",
+          " improve",
+          " the",
+          " performance",
+          " of",
+          " your",
+          " application",
+          ",",
+          " we",
+          "\u2019ll"
+        ],
+        "probabilities": [
+          0.9897295783605923,
+          0.0012864055574575773,
+          0.9129861018600035,
+          0.9995395277174958,
+          0.9997509694834905,
+          0.9964536257167479,
+          0.9138131637157066,
+          0.6876245208546399,
+          0.38922389499710164,
+          0.019018239135042955
+        ],
+        "avg_confidence": 0.6909426027398279
+      },
+      "avg_confidence_change": -6.788144921561785
+    }
+  },
+  {
+    "scenario": {
+      "name": "Technology Selection",
+      "prompt": "What database should I use for this project?",
+      "category": "decision-making"
+    },
+    "first_token": {
+      "without": {
+        "selected": "Choosing",
+        "probability": 0.5255013828171743,
+        "top_5_tokens": [
+          "Choosing",
+          "To",
+          "Selecting",
+          "The",
+          "When"
+        ],
+        "top_5_probs": [
+          0.5255013828171743,
+          0.4092608884431215,
+          0.033594175459931194,
+          0.026163170154832587,
+          0.00354080004327196
+        ]
+      },
+      "with": {
+        "selected": "To",
+        "probability": 0.9852776622000852,
+        "top_5_tokens": [
+          "To",
+          "In",
+          "For",
+          "Certainly",
+          "Let's"
+        ],
+        "top_5_probs": [
+          0.9852776622000852,
+          0.010945443590153247,
+          0.0014813047084237564,
+          0.0008984567220356911,
+          0.0004244009045749915
+        ]
+      },
+      "first_token_confidence_change": 87.492877167722
+    },
+    "sequence": {
+      "without": {
+        "text": "To give a specific recommendation, I would need more",
+        "tokens": [
+          "To",
+          " give",
+          " a",
+          " specific",
+          " recommendation",
+          ",",
+          " I",
+          " would",
+          " need",
+          " more"
+        ],
+        "probabilities": [
+          0.3507872535305056,
+          0.019615469239678447,
+          0.104895687439855,
+          0.06171158727121714,
+          0.996533647201162,
+          0.34235794707199035,
+          0.5278771163572364,
+          0.8539135221381939,
+          0.9998571371447473,
+          0.9479546798542958
+        ],
+        "avg_confidence": 0.5205504047248881
+      },
+      "with": {
+        "text": "To provide a tailored recommendation for your database choice,",
+        "tokens": [
+          "To",
+          " provide",
+          " a",
+          " tailored",
+          " recommendation",
+          " for",
+          " your",
+          " database",
+          " choice",
+          ","
+        ],
+        "probabilities": [
+          0.9887117637398882,
+          0.5167728929292665,
+          0.9019617705131068,
+          0.12833557258241368,
+          0.9764994363540455,
+          0.6717066059157899,
+          0.5109882348277566,
+          0.740315068270396,
+          0.2652139834435408,
+          0.9348024058619097
+        ],
+        "avg_confidence": 0.6635307734438114
+      },
+      "avg_confidence_change": 27.467151580544574
+    }
+  },
+  {
+    "scenario": {
+      "name": "Best Practices",
+      "prompt": "How can I improve my infrastructure?",
+      "category": "optimization"
+    },
+    "first_token": {
+      "without": {
+        "selected": "Impro",
+        "probability": 0.9998315160115374,
+        "top_5_tokens": [
+          "Impro",
+          "To",
+          "Enh",
+          " Improving",
+          "There"
+        ],
+        "top_5_probs": [
+          0.9998315160115374,
+          0.00015843457904541236,
+          5.421333170434924e-06,
+          2.259947894777594e-06,
+          6.474859125078688e-07
+        ]
+      },
+      "with": {
+        "selected": "To",
+        "probability": 0.9807501597476709,
+        "top_5_tokens": [
+          "To",
+          "Impro",
+          "Certainly",
+          "In",
+          "Let's"
+        ],
+        "top_5_probs": [
+          0.9807501597476709,
+          0.017963069680688754,
+          0.00069650379709473,
+          0.00032900494072284645,
+          0.00015541092968401286
+        ]
+      },
+      "first_token_confidence_change": -1.9084571708626104
+    },
+    "sequence": {
+      "without": {
+        "text": "Improving infrastructure is a multifaceted task that can",
+        "tokens": [
+          "Impro",
+          "ving",
+          " infrastructure",
+          " is",
+          " a",
+          " multif",
+          "aceted",
+          " task",
+          " that",
+          " can"
+        ],
+        "probabilities": [
+          0.9999150561916036,
+          0.9999992103693378,
+          0.29419434986109955,
+          0.2695176647048884,
+          0.9796530158646896,
+          0.39611093241434964,
+          0.9999968263007644,
+          0.4737302738561356,
+          0.9819330757413446,
+          0.30010555090560315
+        ],
+        "avg_confidence": 0.6695155956209816
+      },
+      "with": {
+        "text": "To improve your infrastructure, we'll follow a structured methodology",
+        "tokens": [
+          "To",
+          " improve",
+          " your",
+          " infrastructure",
+          ",",
+          " we'll",
+          " follow",
+          " a",
+          " structured",
+          " methodology"
+        ],
+        "probabilities": [
+          0.9807492445265446,
+          0.42500061182633636,
+          0.9998778758234936,
+          0.9311286801668116,
+          0.6663056278363199,
+          0.4293706849427334,
+          0.9069165675761992,
+          0.9438362749837913,
+          0.9914218428679406,
+          0.9287077700695298
+        ],
+        "avg_confidence": 0.82033151806197
+      },
+      "avg_confidence_change": 22.526125369955768
+    }
+  },
+  {
+    "scenario": {
+      "name": "Security Question",
+      "prompt": "How do I secure my application?",
+      "category": "security"
+    },
+    "first_token": {
+      "without": {
+        "selected": "Sec",
+        "probability": 0.9999121955467286,
+        "top_5_tokens": [
+          "Sec",
+          "To",
+          "Ens",
+          "Secure",
+          " Sec"
+        ],
+        "top_5_probs": [
+          0.9999121955467286,
+          5.144034670665527e-05,
+          3.1200147423834214e-05,
+          2.561064058350871e-06,
+          1.2097610005921138e-06
+        ]
+      },
+      "with": {
+        "selected": "To",
+        "probability": 0.8502926440012476,
+        "top_5_tokens": [
+          "To",
+          "Sec",
+          "When",
+          "**",
+          "In"
+        ],
+        "top_5_probs": [
+          0.8502926440012476,
+          0.14775870583500228,
+          0.0004702835714487661,
+          0.00032322101077201663,
+          0.00032322101077201663
+        ]
+      },
+      "first_token_confidence_change": -14.963268996201466
+    },
+    "sequence": {
+      "without": {
+        "text": "Securing your application involves multiple layers of defense to",
+        "tokens": [
+          "Sec",
+          "uring",
+          " your",
+          " application",
+          " involves",
+          " multiple",
+          " layers",
+          " of",
+          " defense",
+          " to"
+        ],
+        "probabilities": [
+          0.9999329353820275,
+          0.9999996871837232,
+          0.34862302267131495,
+          0.999999448776502,
+          0.6143374374541107,
+          0.4667504899597467,
+          0.989462460515541,
+          0.6170722693799853,
+          0.5641410020754604,
+          0.435970705218399
+        ],
+        "avg_confidence": 0.703628945861681
+      },
+      "with": {
+        "text": "To secure your application effectively, you can follow a",
+        "tokens": [
+          "To",
+          " secure",
+          " your",
+          " application",
+          " effectively",
+          ",",
+          " you",
+          " can",
+          " follow",
+          " a"
+        ],
+        "probabilities": [
+          0.8502926440012476,
+          0.8610190470399167,
+          0.9975249137134836,
+          0.9971946671464375,
+          0.2205923509543707,
+          0.6518091788505148,
+          0.059084981598915565,
+          0.31806892026455774,
+          0.9167838877049305,
+          0.8975173247845641
+        ],
+        "avg_confidence": 0.6769887916058939
+      },
+      "avg_confidence_change": -3.7861083476551642
+    }
+  },
+  {
+    "scenario": {
+      "name": "Cost Question",
+      "prompt": "How can I reduce my cloud costs?",
+      "category": "cost-optimization"
+    },
+    "first_token": {
+      "without": {
+        "selected": "Reduc",
+        "probability": 0.9993087722760782,
+        "top_5_tokens": [
+          "Reduc",
+          "There",
+          "To",
+          "Managing",
+          "Cloud"
+        ],
+        "top_5_probs": [
+          0.9993087722760782,
+          0.00037986622227201907,
+          0.00015835180062395907,
+          8.475961101053465e-05,
+          3.5333062633016214e-05
+        ]
+      },
+      "with": {
+        "selected": "To",
+        "probability": 0.8745866081029093,
+        "top_5_tokens": [
+          "To",
+          "Reduc",
+          "Certainly",
+          "Phase",
+          "**"
+        ],
+        "top_5_probs": [
+          0.8745866081029093,
+          0.11836243514124391,
+          0.0035742349845953197,
+          0.001314887568748345,
+          0.0007975196245208743
+        ]
+      },
+      "first_token_confidence_change": -12.480843522377482
+    },
+    "sequence": {
+      "without": {
+        "text": "Reducing cloud costs is a common concern for many",
+        "tokens": [
+          "Reduc",
+          "ing",
+          " cloud",
+          " costs",
+          " is",
+          " a",
+          " common",
+          " concern",
+          " for",
+          " many"
+        ],
+        "probabilities": [
+          0.999279606332712,
+          1.0,
+          0.9902877197372394,
+          0.999653988585211,
+          0.496841553336719,
+          0.894727736239228,
+          0.9403681126340988,
+          0.6893485867680158,
+          0.9411015189863776,
+          0.6892294613111921
+        ],
+        "avg_confidence": 0.8640838283930794
+      },
+      "with": {
+        "text": "Reducing cloud costs is a common concern, and",
+        "tokens": [
+          "Reduc",
+          "ing",
+          " cloud",
+          " costs",
+          " is",
+          " a",
+          " common",
+          " concern",
+          ",",
+          " and"
+        ],
+        "probabilities": [
+          0.0949978604300818,
+          0.999999448776502,
+          0.996691005944095,
+          0.9999952766591059,
+          0.3809844814017991,
+          0.8851476088795323,
+          0.4678613189554542,
+          0.5071049913366713,
+          0.575452291630933,
+          0.9998337805071448
+        ],
+        "avg_confidence": 0.690806806452132
+      },
+      "avg_confidence_change": -20.053265232748014
+    }
+  }
+]
